@@ -11,7 +11,7 @@ Usage is only authorized on Garry's Mod servers, in accordance with the followin
 - Use on your own Garry's Mod servers.
 - Modifications for internal use only.
 
-**Forbidden (without written consent) :** 
+**Forbidden (without prior written consent) :** 
 - Republishing this content (modified or not) on any platform.
 - Selling this content or integrating it into any praid product.
 - Removing mentions of rem_lit of copyright.
