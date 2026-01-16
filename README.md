@@ -1,4 +1,4 @@
-# SmartLevelingSystem
+# Smart Leveling System for Gazzy's Mod servers
 > This is a server side Garry's Mod addon.
 
 ## Licence / Terms of use
