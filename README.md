@@ -1,7 +1,7 @@
 # SmartLevelingSystem
 > This is a server side Garry's Mod addon.
 
-## Licence / Term of use
+## Licence / Terms of use
 
 This Content is property of [Rem_Lit](https://github.com/rem-lit)  
 
